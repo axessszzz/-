@@ -1,0 +1,7 @@
+user.name=Du
+user.email=1409758020@qq.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.editor=pycharm
